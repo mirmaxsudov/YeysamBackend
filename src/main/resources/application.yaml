@@ -1,0 +1,9 @@
+spring:
+#  main:
+#    allow-circular-references: true
+  application:
+    name: ResumeBuilder
+  profiles:
+    active: dev
+
+#    spring.main.allow-circular-references to true
